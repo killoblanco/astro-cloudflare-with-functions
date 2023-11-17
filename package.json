@@ -12,12 +12,15 @@
     "pages:deploy": "astro build && wrangler pages deploy ./dist"
   },
   "dependencies": {
-    "@astrojs/check": "^0.3.1",
-    "@astrojs/cloudflare": "^7.7.1",
-    "astro": "^3.5.5",
-    "typescript": "^5.2.2"
+    "@astrojs/check": "0.3.1",
+    "@astrojs/cloudflare": "7.7.1",
+    "@astrojs/tailwind": "5.0.2",
+    "astro": "3.5.5",
+    "tailwindcss": "3.3.5",
+    "typescript": "5.2.2"
   },
   "devDependencies": {
-    "wrangler": "^3.16.0"
+    "daisyui": "4.3.1",
+    "wrangler": "3.16.0"
   }
 }
