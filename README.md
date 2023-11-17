@@ -9,4 +9,4 @@ To get starter clone this repository by runing:
 git clone https://github.com/killoblanco/astro-cloudflare-with-functions.git
 ```
 
-You can also see a live demo [here 🌎](https://80b0bc63.astro-cloudflare-with-functions.pages.dev/).
+You can also see a live demo [here 🌎](https://astro-cloudflare-with-functions.pages.dev/).
